@@ -1,0 +1,7 @@
+core/node_modules
+config/Local.js
+node_modules
+core/coverage
+.env
+core/.logs
+.logs
